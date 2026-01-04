@@ -12,7 +12,7 @@ export default function Heider() {
             <Link href="/dragon" className="text-xl font-bold">
                 Dragon Ball
             </Link>
-            <Link href="/pokemom" className="text-xl font-bold">
+            <Link href="/pokemon" className="text-xl font-bold">
                 Pokemon
             </Link>
             <Link href="/kimetsu" className="text-xl font-bold">
